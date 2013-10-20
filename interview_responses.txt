@@ -56,6 +56,7 @@ You can write your responses here!
 
 				else:
 					total += i
-			print total		
+			print total	
+	add_arr(arr)			
 
 4.
